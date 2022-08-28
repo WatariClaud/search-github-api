@@ -17,7 +17,7 @@ Includes basic search functionality, fancy designs can be added in later commits
 #### API
 
 Application uses REST V3 of the github search API. 'https://api.github.com'. (Limited to ``` /users ```).
-Does not require authentication to search. Public github accounts and relevant details (like bio, image) are freely available. Search results are limited to 100 as per the [github documentation] (https://docs.github.com/en/rest/overview/resources-in-the-rest-api#pagination).
+Does not require authentication to search. Public github accounts and relevant details (like bio, image) are freely available. Search results are limited to 100 as per the (github documentation) [https://docs.github.com/en/rest/overview/resources-in-the-rest-api#pagination].
 
 #### Project Folders
 Components can be found under '/src/components', while the fetch methods are under '/src/services'.
@@ -28,4 +28,4 @@ I particluarly enjoyed the pagination aspect of the project. This is my 2nd proj
 
 I am pleased with the general functionality of the application, and proud of the overall project, especially the pagination.
 
-Given more time, I would implement the graphql version of the API and the styling.
+Given more time, I would implement the graphql version of the API and improve the styling.
