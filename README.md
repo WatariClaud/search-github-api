@@ -28,4 +28,4 @@ I particluarly enjoyed the pagination aspect of the project. This is my 2nd proj
 
 I am pleased with the general functionality of the application, and proud of the overall project, especially the pagination.
 
-Given more time, I would implement the graphql version of the API and improve the styling.
+Given more time, I would implement the graphql version of the API and improve the styling (responsive queries not available, better experience on wider screens).
