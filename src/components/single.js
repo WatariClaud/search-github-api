@@ -9,7 +9,6 @@ const Single = ({username}) => {
             setUserData(user);
         })();
     }, [username]);
-    console.log(userData);
     return userData.node_id
     ?
     <div className='result-item'>

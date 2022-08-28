@@ -18,7 +18,7 @@ let Data = async (username) => {
 let Single = async(data) => {
     const response = await fetch(`https://api.github.com/users/${data}`, { 
         headers: {
-            'Authorization' : 'token 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'
+            // 'Authorization' : 'token <removed after testing>'
         }
     });
     return response.data;
