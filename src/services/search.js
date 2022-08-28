@@ -24,4 +24,6 @@ let Single = async(data) => {
     return response.data;
 }
 
-export default {Data, Single};
+const exported = {Data, Single};
+
+export default exported;
